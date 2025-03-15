@@ -3,12 +3,19 @@ Hello Everyone,Uma Veluri here👋
 I am Uma Veluri, a Data Engineer & Power BI Developer with 5 years of experience in big data, cloud computing, and data visualization. I specialize in building scalable data pipelines, ETL workflows, and insightful dashboards to drive data-driven decisions.
 
 🔹 Technical Expertise
+
 ♦ Big Data & ETL: Hadoop, Spark, PySpark, Hive, Sqoop, Airflow
+
 ♦ Cloud & Monitoring: AWS EMR, CloudWatch Logs, Datadog, Splunk Logs, Airflow Logs
+
 ♦ Database: MySQL, SQL
+
 ♦ Tools & Utilities: Putty, WinSCP, IntelliJ, Jira
+
 ♦ Version Control: Git
+
 ♦ Programming: Scala, SQL, Python
+
 ♦ Data Visualization: Tableau, Power BI
 
 ## 🤝 Connect with Me :
